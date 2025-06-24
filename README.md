@@ -100,6 +100,8 @@ A privacy-focused real-time chat platform built with modern backend frameworks. 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samandari&theme=dark&border_radius=4&mode=weekly)](https://git.io/streak-stats)
 
+<p><img align="center" src="https://github-readme-streakstats.herokuapp.comuser=samandari&theme=dark&border_radius=4&mode=weekly" alt="samandari" /></p>
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
