@@ -29,13 +29,13 @@ I'm a passionate **Software Engineer & Backend Developer** specializing in build
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-- ⚡ **Exploring:** Real-time features with Socket.IO, diving into Machine Learning
+- ⚡ **Exploring:** Learning about LLms, diving into Machine Learning
 
 ## 🌟 Top Skills
 
 - Rapid tech learner and adaptive problem solver  
 - REST API design & implementation  
-- Real-time communication (Socket.IO)  
+- Micro-services End-to-End  
 - Clean code, testing, and documentation  
 
 ## 🛠️ Technologies & Tools
@@ -78,7 +78,7 @@ I'm a passionate **Software Engineer & Backend Developer** specializing in build
 ## 📂 Featured Projects
 
 ### [usermanagement](https://github.com/Sama-ndari/user-management-nestJS)
-A comprehensive backend solution for user authentication, authorization, and management using NestJS with Keycloak, Vault, Swagger, and more. Offers robust RESTful APIs with security best practices, role management, and seamless integration for scalable applications.
+A comprehensive backend solution micro-service for user authentication, authorization, and management using NestJS with Keycloak, Vault, Swagger, and more. Offers robust RESTful APIs with security best practices, role management, and seamless integration for scalable applications.
 
 ### [incognito chat](https://github.com/Sama-ndari/Incognito_chat)
 A privacy-focused real-time chat platform built with modern backend frameworks. Features anonymous messaging, secure connections, and a smooth user experience for confidential conversations.
