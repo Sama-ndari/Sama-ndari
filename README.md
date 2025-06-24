@@ -98,6 +98,8 @@ A privacy-focused real-time chat platform built with modern backend frameworks. 
 - 🎵 Music lover & adventure seeker
 - 🍭 Got a sweet tooth—always up for desserts!
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=samandari&theme=dark&border_radius=4&mode=weekly" alt="GitHub Streak" /></a>
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
