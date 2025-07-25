@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sama-ndari
+# 👋 Hi, I’m Samandari
 
 ## 🚀 About Me
 
