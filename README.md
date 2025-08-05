@@ -85,12 +85,12 @@ A privacy-focused real-time chat platform built with modern backend frameworks. 
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jules-cesar-junior-ndayisenga-8b79592a8)
-[![X](https://img.shields.io/badge/X-black?logo=x)](https://x.com/La_casse_?s=20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/????????)
+[![X](https://img.shields.io/badge/X-black?logo=x)](https://x.com/???????s=20)
 [![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=firefox-browser)](https://sama-ndari.github.io/Portfolio/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sama__ndari?igsh=MWFic2todzA4aGZteg==)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100073426981729&mibextid=jtWzXIAxfKx1VBOC)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+25777568903)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/?????????igsh=MWFic2todzA4aGZteg==)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=0000000000&mibextid=jtWzXIAxfKx1VBOC)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+00000000)
 
 ## 🎸 Fun Facts & Interests
 
