@@ -77,10 +77,10 @@ I'm a passionate **Software Engineer & Backend Developer** specializing in build
 
 ## 📂 Featured Projects
 
-### [usermanagement](https://github.com/Sama-ndari/user-management-nestJS)
+### [User-Management](https://github.com/Sama-ndari/user-management-nestJS)
 A comprehensive backend solution micro-service for user authentication, authorization, and management using NestJS with Keycloak, Vault, Swagger, and more. Offers robust RESTful APIs with security best practices, role management, and seamless integration for scalable applications.
 
-### [incognito chat](https://github.com/Sama-ndari/Incognito_chat)
+### [Incognito Chat](https://github.com/Sama-ndari/Incognito_chat)
 A privacy-focused real-time chat platform built with modern backend frameworks. Features anonymous messaging, secure connections, and a smooth user experience for confidential conversations.
 
 ## 🌐 Connect With Me
