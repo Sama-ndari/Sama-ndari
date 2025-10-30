@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Samandari
+# 👋 Hi, I'm Samandari
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer & Backend Developer** specializing in building robust APIs and scalable services with **NestJS** and **Django REST**. I thrive on learning new technologies quickly and enjoy solving complex problems with elegant code.
+I'm a passionate **Software Engineer & Backend Developer** at **Asyst Resources LTD**, specializing in building robust APIs and scalable services with **NestJS** and **Django REST**. I thrive on learning new technologies quickly and enjoy solving complex problems with elegant code. Currently diving deep into **LLMs**, **Natural Language Processing**, and **Machine Learning** projects to expand my expertise in AI technologies.
 
-- 💻 **Tech Stack:**  
+- 💻 **Tech Stack:**
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -17,7 +17,6 @@ I'm a passionate **Software Engineer & Backend Developer** specializing in build
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  
 - 🛠️ **Workflow Tools:**  
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -33,12 +32,13 @@ I'm a passionate **Software Engineer & Backend Developer** specializing in build
 
 ## 🌟 Top Skills
 
-- Rapid tech learner and adaptive problem solver  
-- REST API design & implementation  
-- Micro-services End-to-End  
-- Clean code, testing, and documentation  
+- Rapid tech learner and adaptive problem solver
+- REST API design & implementation
+- Micro-services End-to-End
+- Clean code, testing, and documentation
 
 ## 🛠️ Technologies & Tools
+
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-0066FF?style=for-the-badge&logo=keycloak&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
@@ -78,9 +78,11 @@ I'm a passionate **Software Engineer & Backend Developer** specializing in build
 ## 📂 Featured Projects
 
 ### [User-Management](https://github.com/Sama-ndari/user-management-nestJS)
+
 A comprehensive backend solution micro-service for user authentication, authorization, and management using NestJS with Keycloak, Vault, Swagger, and more. Offers robust RESTful APIs with security best practices, role management, and seamless integration for scalable applications.
 
 ### [Incognito Chat](https://github.com/Sama-ndari/Incognito_chat)
+
 A privacy-focused real-time chat platform built with modern backend frameworks. Features anonymous messaging, secure connections, and a smooth user experience for confidential conversations.
 
 ## 🌐 Connect With Me
@@ -91,6 +93,7 @@ A privacy-focused real-time chat platform built with modern backend frameworks. 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/?????????igsh=MWFic2todzA4aGZteg==)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=0000000000&mibextid=jtWzXIAxfKx1VBOC)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+00000000)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yellow?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/samandari)
 
 ## 🎸 Fun Facts & Interests
 
