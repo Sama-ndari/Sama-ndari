@@ -1,10 +1,35 @@
-# 👋 Hi, I'm Samandari
+# 👋🏾 Hey, I'm Samandari  
 
-## 🚀 About Me
 
-I'm a passionate **Software Engineer & Backend Developer** at **Asyst Resources LTD**, specializing in building robust APIs and scalable services with **NestJS** and **Django REST**. I thrive on learning new technologies quickly and enjoy solving complex problems with elegant code. Currently diving deep into **LLMs**, **Natural Language Processing**, and **Machine Learning** projects to expand my expertise in AI technologies.
 
-- 💻 **Tech Stack:**
+## 🚀 About Me  
+
+I'm a passionate **Software Engineer & Backend Developer** at **Asyst Resources LTD**, building high-performance APIs, scalable systems, and intelligent tools that bridge logic with creativity.  
+I live for that perfect blend of clean architecture, fast code, and cutting-edge AI tech. Currently exploring **LLMs**, **RAG systems**, and **Machine Learning** integration into real-world apps.  
+
+
+
+## 🧠 Currently Building  
+
+- 🗣️ **[LangChain Qdrant Chatbot](https://github.com/Sama-ndari/langchain-qdrant-chatbot)** — AI-powered chatbot using LangChain + Qdrant (RAG) for context-aware conversation.  
+- 🎬 **[MovieBox Fullstack](https://github.com/Sama-ndari/moviebox-fullstack)** — A modern movie streaming platform with watchlists, ratings, and live recommendations.  
+- 📱 **[SamandariApp](https://github.com/Sama-ndari/SamandariApp)** — Flutter-based productivity hub powered by AI and customizable widgets.  
+
+
+
+
+## 🔬 Focus Areas  
+
+- 🧩 Retrieval-Augmented Generation (RAG) & Vector Databases  
+  
+- 🧠 AI, NLP, and Embeddings (LangChain, Hugging Face, OpenAI)  
+
+- ⚡ **Exploring:** Learning about LLms, diving into Machine Learning
+
+- 🔐 Cybersecurity & Ethical Hacking  
+ 
+- ⚙️ Backend Systems & Microservices 
+
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -28,14 +53,16 @@ I'm a passionate **Software Engineer & Backend Developer** at **Asyst Resources 
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-- ⚡ **Exploring:** Learning about LLms, diving into Machine Learning
 
-## 🌟 Top Skills
 
-- Rapid tech learner and adaptive problem solver
-- REST API design & implementation
-- Micro-services End-to-End
-- Clean code, testing, and documentation
+
+## 🌟 Top Skills  
+
+- Rapid tech learner & adaptive problem solver  
+- REST API design & implementation  
+- Micro-services architecture (end-to-end)  
+- Clean code, documentation & testing  
+- Security-first mindset (Ethical Hacker at heart 🐍)  
 
 ## 🛠️ Technologies & Tools
 
@@ -85,6 +112,14 @@ A comprehensive backend solution micro-service for user authentication, authoriz
 
 A privacy-focused real-time chat platform built with modern backend frameworks. Features anonymous messaging, secure connections, and a smooth user experience for confidential conversations.
 
+## 📊 GitHub Stats  
+
+![Samandari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sama-ndari&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sama-ndari&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sama-ndari&theme=radical)  
+
+
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/????????)
@@ -95,19 +130,27 @@ A privacy-focused real-time chat platform built with modern backend frameworks. 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+00000000)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yellow?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/samandari)
 
-## 🎸 Fun Facts & Interests
 
-- ⌨️ You can’t beat me at typing!
-- 🎵 Music lover & adventure seeker
-- 🍭 Got a sweet tooth—always up for desserts!
 
-### ✍️ Random Dev Quote
+## 🎸 Fun Facts & Interests  
+
+- ⌨️ You can’t beat me at typing  
+- 🎵 Music producer & late-night coder  
+- 🍭 Sweet tooth certified — I debug with chocolate  
+- 🕹️ Gamer, hacker, and tech philosopher  
+
+
+
+### ✍🏾 Random Dev Quote  
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-_“Building scalable backends and sweetening life, one API at a time.”_
+### 🧩 _“Building scalable backends and sweetening life, one API at a time.”_
+
+
+
 
 <!--
 **Sama-ndari/Sama-ndari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
