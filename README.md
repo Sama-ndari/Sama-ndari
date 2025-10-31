@@ -114,9 +114,20 @@ A privacy-focused real-time chat platform built with modern backend frameworks. 
 
 ## 📊 GitHub Stats  
 
-![Samandari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sama-ndari&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sama-ndari&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sama-ndari&theme=radical)  
+
+![Samandari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sama-ndari&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=🔥%20Samandari’s%20Github%20Stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sama-ndari&layout=compact&langs_count=8&theme=tokyonight&hide=css,html,SCSS)
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sama-ndari&theme=tokyonight&hide_border=true&fire=💻)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Sama-ndari&theme=tokyonight&margin-w=5&no-frame=true)
+
+
+
+## 🌌 3D Contribution Graph
+![3D Contributions](https://raw.githubusercontent.com/Sama-ndari/Sama-ndari/main/profile-3d-contrib/profile-night-green.svg)
+
 
 
 
@@ -150,19 +161,3 @@ A privacy-focused real-time chat platform built with modern backend frameworks. 
 ### 🧩 _“Building scalable backends and sweetening life, one API at a time.”_
 
 
-
-
-<!--
-**Sama-ndari/Sama-ndari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
