@@ -119,14 +119,14 @@ A privacy-focused real-time chat platform built with modern backend frameworks. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sama-ndari&layout=compact&langs_count=8&theme=tokyonight&hide=css,html,SCSS)
  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sama-ndari&theme=tokyonight&hide_border=true&fire=💻)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sama-ndari&theme=tokyonight&hide_border=true&fire=💻) -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Sama-ndari&theme=tokyonight&margin-w=5&no-frame=true)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Sama-ndari&theme=tokyonight&margin-w=5&no-frame=true) -->
 
 
 
-## 🌌 3D Contribution Graph
-![3D Contributions](https://raw.githubusercontent.com/Sama-ndari/Sama-ndari/main/profile-3d-contrib/profile-night-green.svg)
+<!-- ## 🌌 3D Contribution Graph
+![3D Contributions](https://raw.githubusercontent.com/Sama-ndari/Sama-ndari/main/profile-3d-contrib/profile-night-green.svg) -->
 
 
 
