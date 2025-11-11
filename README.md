@@ -13,6 +13,7 @@ I live for that perfect blend of clean architecture, fast code, and cutting-edge
 
 - 🗣️ **[LangChain Qdrant Chatbot](https://github.com/Sama-ndari/langchain-qdrant-chatbot)** — AI-powered chatbot using LangChain + Qdrant (RAG) for context-aware conversation.
 - 🇧🇮 **[Burundian Language Identifier](https://github.com/Sama-ndari/burundi-language-classifier)** — Custom-trained NLP model to classify Kirundi, French, Swahili, and English. **[Live Demo Here!](https://huggingface.co/spaces/samandari/burundi-lang-id)**  
+- 🎤 **[Kirundi Open Speech & Text Dataset](https://github.com/Sama-ndari/Kirundi_Dataset)** — Building the first large-scale, open-source speech and text dataset for Kirundi language. Community-driven initiative for ASR, TTS, and MT model development.
 - 🎬 **[MovieBox Fullstack](https://github.com/Sama-ndari/moviebox-fullstack)** — A modern movie streaming platform with watchlists, ratings, and live recommendations.  
 - 📱 **[SamandariApp](https://github.com/Sama-ndari/SamandariApp)** — Flutter-based productivity hub powered by AI and customizable widgets.  
 
@@ -109,9 +110,9 @@ I live for that perfect blend of clean architecture, fast code, and cutting-edge
 
 A comprehensive backend solution micro-service for user authentication, authorization, and management using NestJS with Keycloak, Vault, Swagger, and more. Offers robust RESTful APIs with security best practices, role management, and seamless integration for scalable applications.
 
-### [Incognito Chat](https://github.com/Sama-ndari/Incognito_chat)
+### [Kirundi Dataset](https://github.com/Sama-ndari/Kirundi_Dataset)
 
-A privacy-focused real-time chat platform built with modern backend frameworks. Features anonymous messaging, secure connections, and a smooth user experience for confidential conversations.
+🇧🇮 The first large-scale, open-source speech and text dataset for Kirundi language. A community-driven initiative building AI capabilities for 12M+ Kirundi speakers through collaborative data collection, featuring ASR, TTS, and machine translation capabilities with comprehensive documentation and automation tools.
 
 ## 📊 GitHub Stats  
 
