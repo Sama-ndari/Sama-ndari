@@ -11,9 +11,10 @@ I live for that perfect blend of clean architecture, fast code, and cutting-edge
 
 ## 🧠 Currently Building  
 
+
+- 🎤 **[Kirundi Open Speech & Text Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)** — Building the first large-scale, open-source speech and text dataset for Kirundi language. Community-driven initiative for ASR, TTS, and MT model development.
 - 🗣️ **[LangChain Qdrant Chatbot](https://github.com/Sama-ndari/langchain-qdrant-chatbot)** — AI-powered chatbot using LangChain + Qdrant (RAG) for context-aware conversation.
 - 🇧🇮 **[Burundian Language Identifier](https://github.com/Sama-ndari/burundi-language-classifier)** — Custom-trained NLP model to classify Kirundi, French, Swahili, and English. **[Live Demo Here!](https://huggingface.co/spaces/samandari/burundi-lang-id)**  
-- 🎤 **[Kirundi Open Speech & Text Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)** — Building the first large-scale, open-source speech and text dataset for Kirundi language. Community-driven initiative for ASR, TTS, and MT model development.
 - 🎬 **[MovieBox Fullstack](https://github.com/Sama-ndari/moviebox-fullstack)** — A modern movie streaming platform with watchlists, ratings, and live recommendations.  
 - 📱 **[SamandariApp](https://github.com/Sama-ndari/SamandariApp)** — Flutter-based productivity hub powered by AI and customizable widgets.  
 
