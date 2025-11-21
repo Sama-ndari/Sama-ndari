@@ -1,51 +1,52 @@
-# 👋🏾 Hey, I'm Samandari  
+# 👋🏾 Hey, I'm Samandari
 
+## 🚀 About Me
 
+I'm a passionate **Software Engineer & Backend Developer** at **Asyst Resources LTD**, building high-performance APIs, scalable systems, and intelligent tools that bridge logic with creativity.
+I live for that perfect blend of clean architecture, fast code, and cutting-edge AI tech. Currently exploring **LLMs**, **RAG systems**, and **Machine Learning** integration into real-world apps.
 
-## 🚀 About Me  
+---
 
-I'm a passionate **Software Engineer & Backend Developer** at **Asyst Resources LTD**, building high-performance APIs, scalable systems, and intelligent tools that bridge logic with creativity.  
-I live for that perfect blend of clean architecture, fast code, and cutting-edge AI tech. Currently exploring **LLMs**, **RAG systems**, and **Machine Learning** integration into real-world apps.  
+### 🏆 Founder & Lead at [Ijwi ry'Ikirundi AI](https://github.com/Ijwi-ry-Ikirundi-AI)
 
+I founded and currently lead **Ijwi ry'Ikirundi AI**, an open-source organization dedicated to digitizing the Kirundi language. We are building the foundational datasets and models for the future of Kirundi AI.
 
+- **Organization:** [github.com/Ijwi-ry-Ikirundi-AI](https://github.com/Ijwi-ry-Ikirundi-AI)
+- **Hugging Face:** [huggingface.co/Ijwi-ry-Ikirundi-AI](https://huggingface.co/Ijwi-ry-Ikirundi-AI)
 
-## 🧠 Currently Building  
+---
 
+## 🧠 Currently Building
 
-- 🎤 **[Kirundi Open Speech & Text Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)** — Building the first large-scale, open-source speech and text dataset for Kirundi language. Community-driven initiative for ASR, TTS, and MT model development.
+- 🇧🇮 **[Kirundi Open Speech & Text Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)** — The first large-scale, open-source speech and text dataset for Kirundi. Leading a community of contributors to build resources for ASR, TTS, and Machine Translation.
+- 🎮 **[Kirundi Contribution App](https://github.com/Sama-ndari/kirundi-contribution-app)** — A gamified web platform for crowdsourcing language data. Features "Easy" and "Medium" levels to make contributing fun and accessible. **[Play Live Here!](https://sama-ndari.github.io/kirundi-contribution-app/)**
 - 🗣️ **[LangChain Qdrant Chatbot](https://github.com/Sama-ndari/langchain-qdrant-chatbot)** — AI-powered chatbot using LangChain + Qdrant (RAG) for context-aware conversation.
-- 🇧🇮 **[Burundian Language Identifier](https://github.com/Sama-ndari/burundi-language-classifier)** — Custom-trained NLP model to classify Kirundi, French, Swahili, and English. **[Live Demo Here!](https://huggingface.co/spaces/samandari/burundi-lang-id)**  
-- 🎬 **[MovieBox Fullstack](https://github.com/Sama-ndari/moviebox-fullstack)** — A modern movie streaming platform with watchlists, ratings, and live recommendations.  
-- 📱 **[SamandariApp](https://github.com/Sama-ndari/SamandariApp)** — Flutter-based productivity hub powered by AI and customizable widgets.  
+- 🌍 **[Burundian Language Identifier](https://github.com/Sama-ndari/burundi-language-classifier)** — Custom-trained NLP model to classify Kirundi, French, Swahili, and English. **[Live Demo Here!](https://huggingface.co/spaces/samandari/burundi-lang-id)**
+- 🎬 **[MovieBox Fullstack](https://github.com/Sama-ndari/moviebox-fullstack)** — A modern movie streaming platform with watchlists, ratings, and live recommendations.
+- 📱 **[SamandariApp](https://github.com/Sama-ndari/SamandariApp)** — Flutter-based productivity hub powered by AI and customizable widgets.
 
+## 🔬 Focus Areas
 
+- 🧩 Retrieval-Augmented Generation (RAG) & Vector Databases
+- 🧠 AI, NLP, and Embeddings (LangChain, Hugging Face, OpenAI)
+- ⚡ **Exploring:** Deep diving into LLM fine-tuning and Speech Processing architectures.
+- 🔐 Cybersecurity & Ethical Hacking
+- ⚙️ Backend Systems & Microservices
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## 🔬 Focus Areas  
-
-- 🧩 Retrieval-Augmented Generation (RAG) & Vector Databases  
-  
-- 🧠 AI, NLP, and Embeddings (LangChain, Hugging Face, OpenAI)  
-
-- ⚡ **Exploring:** Learning about LLms, diving into Machine Learning
-
-- 🔐 Cybersecurity & Ethical Hacking  
- 
-- ⚙️ Backend Systems & Microservices 
-
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-- 🛠️ **Workflow Tools:**  
+- 🛠️ **Workflow Tools:**
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -56,16 +57,13 @@ I live for that perfect blend of clean architecture, fast code, and cutting-edge
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+## 🌟 Top Skills
 
-
-
-## 🌟 Top Skills  
-
-- Rapid tech learner & adaptive problem solver  
-- REST API design & implementation  
-- Micro-services architecture (end-to-end)  
-- Clean code, documentation & testing  
-- Security-first mindset (Ethical Hacker at heart 🐍)  
+- Rapid tech learner & adaptive problem solver
+- REST API design & implementation
+- Micro-services architecture (end-to-end)
+- Clean code, documentation & testing
+- Security-first mindset (Ethical Hacker at heart 🐍)
 
 ## 🛠️ Technologies & Tools
 
@@ -107,32 +105,23 @@ I live for that perfect blend of clean architecture, fast code, and cutting-edge
 
 ## 📂 Featured Projects
 
-### [User-Management](https://github.com/Sama-ndari/user-management-nestJS)
-
-A comprehensive backend solution micro-service for user authentication, authorization, and management using NestJS with Keycloak, Vault, Swagger, and more. Offers robust RESTful APIs with security best practices, role management, and seamless integration for scalable applications.
-
 ### [Kirundi Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)
 
 🇧🇮 The first large-scale, open-source speech and text dataset for Kirundi language. A community-driven initiative building AI capabilities for 12M+ Kirundi speakers through collaborative data collection, featuring ASR, TTS, and machine translation capabilities with comprehensive documentation and automation tools.
 
-## 📊 GitHub Stats  
+### [User-Management](https://github.com/Sama-ndari/user-management-nestJS)
 
+A comprehensive backend solution micro-service for user authentication, authorization, and management using NestJS with Keycloak, Vault, Swagger, and more. Offers robust RESTful APIs with security best practices, role management, and seamless integration for scalable applications.
+
+## 📊 GitHub Stats
 
 ![Samandari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sama-ndari&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=🔥%20Samandari’s%20Github%20Stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sama-ndari&layout=compact&langs_count=8&theme=tokyonight&hide=css,html,SCSS)
- 
+
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sama-ndari&theme=tokyonight&hide_border=true&fire=💻) -->
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Sama-ndari&theme=tokyonight&margin-w=5&no-frame=true) -->
-
-
-
-<!-- ## 🌌 3D Contribution Graph
-![3D Contributions](https://raw.githubusercontent.com/Sama-ndari/Sama-ndari/main/profile-3d-contrib/profile-night-green.svg) -->
-
-
-
 
 ## 🌐 Connect With Me
 
@@ -144,23 +133,17 @@ A comprehensive backend solution micro-service for user authentication, authoriz
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+00000000)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yellow?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/samandari)
 
+## 🎸 Fun Facts & Interests
 
+- ⌨️ You can’t beat me at typing
+- 🎵 Music producer & late-night coder
+- 🍭 Sweet tooth certified — I debug with chocolate
+- 🕹️ Gamer, hacker, and tech philosopher
 
-## 🎸 Fun Facts & Interests  
-
-- ⌨️ You can’t beat me at typing  
-- 🎵 Music producer & late-night coder  
-- 🍭 Sweet tooth certified — I debug with chocolate  
-- 🕹️ Gamer, hacker, and tech philosopher  
-
-
-
-### ✍🏾 Random Dev Quote  
+### ✍🏾 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
 ### 🧩 _“Building scalable backends and sweetening life, one API at a time.”_
-
-
