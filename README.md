@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer & Backend Developer** at **Asyst Resources LTD**, building high-performance APIs, scalable systems, and intelligent tools that bridge logic with creativity.
+I'm a passionate **AI Engineer & Backend Developer** at **Asyst Resources LTD**, building high-performance APIs, scalable systems, and architect intelligent enterprise systems that bridge logic with creativity.
 I live for that perfect blend of clean architecture, fast code, and cutting-edge AI tech. Currently exploring **LLMs**, **RAG systems**, and **Machine Learning** integration into real-world apps.
 
 ---
@@ -21,6 +21,7 @@ I founded and currently lead **Ijwi ry'Ikirundi AI**, an open-source organizatio
 - 🇧🇮 **[Kirundi Open Speech & Text Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)** — The first large-scale, open-source speech and text dataset for Kirundi. Leading a community of contributors to build resources for ASR, TTS, and Machine Translation.
 - 🎮 **[Kirundi Contribution App](https://github.com/Sama-ndari/kirundi-contribution-app)** — A gamified web platform for crowdsourcing language data. Features "Easy" and "Medium" levels to make contributing fun and accessible. **[Play Live Here!](https://sama-ndari.github.io/kirundi-contribution-app/)**
 - 🗣️ **[LangChain Qdrant Chatbot](https://github.com/Sama-ndari/langchain-qdrant-chatbot)** — AI-powered chatbot using LangChain + Qdrant (RAG) for context-aware conversation.
+- 🧬 **[Enterprise RAG ChatBot](https://github.com/Sama-ndari/enterprise-rag-chatbot)** — A fully containerized production-ready, framework-free RAG microservice.
 - 🌍 **[Burundian Language Identifier](https://github.com/Sama-ndari/burundi-language-classifier)** — Custom-trained NLP model to classify Kirundi, French, Swahili, and English. **[Live Demo Here!](https://huggingface.co/spaces/samandari/burundi-lang-id)**
 - 🎬 **[MovieBox Fullstack](https://github.com/Sama-ndari/moviebox-fullstack)** — A modern movie streaming platform with watchlists, ratings, and live recommendations.
 - 📱 **[SamandariApp](https://github.com/Sama-ndari/SamandariApp)** — Flutter-based productivity hub powered by AI and customizable widgets.
@@ -77,6 +78,9 @@ I founded and currently lead **Ijwi ry'Ikirundi AI**, an open-source organizatio
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-F9A825?style=for-the-badge&logo=huggingface&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A3FF?style=for-the-badge&logo=milvus&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F00?style=for-the-badge&logo=qdrant&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
