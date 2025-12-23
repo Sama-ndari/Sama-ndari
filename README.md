@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **AI Engineer & Backend Developer** at **Asyst Resources LTD**, building high-performance APIs, scalable systems, and architect intelligent enterprise systems that bridge logic with creativity.
+I'm a passionate **Software Engineer & AI Developer** at **Asyst Resources LTD**, building high-performance APIs, scalable systems, and architect intelligent enterprise systems that bridge logic with creativity.
 I live for that perfect blend of clean architecture, fast code, and cutting-edge AI tech. Currently exploring **LLMs**, **RAG systems**, and **Machine Learning** integration into real-world apps.
 
 ---
