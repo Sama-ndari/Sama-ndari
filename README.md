@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer & AI Developer** at **Asyst Resources LTD**, building high-performance APIs, scalable systems, and architect intelligent enterprise systems that bridge logic with creativity.
-I live for that perfect blend of clean architecture, fast code, and cutting-edge AI tech. Currently exploring **LLMs**, **RAG systems**, and **Machine Learning** integration into real-world apps.
+I'm a passionate **AI Developer & Backend Engineer** at **Asyst Resources LTD**, specializing in **Agentic AI**, **Multi-Agent Systems**, and **Scalable Microservices**.
+I live for the intersection of clean architecture and intelligent automation. Currently, I am focused on engineering **Autonomous Agents**, **RAG systems**, and bridging the gap between raw LLM logic and production-ready applications.
 
 ---
 
@@ -16,26 +16,39 @@ I founded and currently lead **Ijwi ry'Ikirundi AI**, an open-source organizatio
 
 ---
 
-## 🧠 Currently Building
+## 🤖 Recent Deep Dive: Agentic AI Engineering
+
+I recently completed an intensive sprint building **Autonomous Systems** using Raw Python, OpenAI SDK, and CrewAI.
+
+| Framework | Project & Highlights |
+| :--- | :--- |
+| **Raw Python** | **[Professionally You Chatbot](https://github.com/Sama-ndari/llm-semantic-drift-analysis)**<br>Built framework-free agentic patterns (Rerun, Eval loops) and deployed to HuggingFace. |
+| **OpenAI SDK** | **[Deep Research & SDR Agents](https://github.com/Sama-ndari/autonomous-sdr-agent)**<br>Engineered autonomous agents for complex research and sales with safety guardrails. |
+| **CrewAI** | **[Dev Swarm Agency](https://github.com/Sama-ndari/dev-swarm-autonomous-agency)**<br>Modeled a full software team (Lead, Dev, QA) running code in **Docker** containers. |
+
+---
+
+## 🧠 Flagship Projects
 
 - 🇧🇮 **[Kirundi Open Speech & Text Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)** — The first large-scale, open-source speech and text dataset for Kirundi. Leading a community of contributors to build resources for ASR, TTS, and Machine Translation.
 - 🎮 **[Kirundi Contribution App](https://github.com/Sama-ndari/kirundi-contribution-app)** — A gamified web platform for crowdsourcing language data. Features "Easy" and "Medium" levels to make contributing fun and accessible. **[Play Live Here!](https://sama-ndari.github.io/kirundi-contribution-app/)**
-- 🗣️ **[LangChain Qdrant Chatbot](https://github.com/Sama-ndari/langchain-qdrant-chatbot)** — AI-powered chatbot using LangChain + Qdrant (RAG) for context-aware conversation.
+- 🚀 **[Dev Swarm: Autonomous Software Agency](https://github.com/Sama-ndari/dev-swarm-autonomous-agency)** — A multi-agent AI system where autonomous agents (Manager, Backend, Frontend, QA) collaborate to build software. Features Dockerized code execution for safety and hierarchical task delegation using CrewAI.
 - 🧬 **[Enterprise RAG ChatBot](https://github.com/Sama-ndari/enterprise-rag-chatbot)** — A fully containerized production-ready, framework-free RAG microservice.
 - 🌍 **[Burundian Language Identifier](https://github.com/Sama-ndari/burundi-language-classifier)** — Custom-trained NLP model to classify Kirundi, French, Swahili, and English. **[Live Demo Here!](https://huggingface.co/spaces/samandari/burundi-lang-id)**
-- 🎬 **[MovieBox Fullstack](https://github.com/Sama-ndari/moviebox-fullstack)** — A modern movie streaming platform with watchlists, ratings, and live recommendations.
 - 📱 **[SamandariApp](https://github.com/Sama-ndari/SamandariApp)** — Flutter-based productivity hub powered by AI and customizable widgets.
 
 ## 🔬 Focus Areas
 
-- 🧩 Retrieval-Augmented Generation (RAG) & Vector Databases
-- 🧠 AI, NLP, and Embeddings (LangChain, Hugging Face, OpenAI)
-- ⚡ **Exploring:** Deep diving into LLM fine-tuning and Speech Processing architectures.
-- 🔐 Cybersecurity & Ethical Hacking
-- ⚙️ Backend Systems & Microservices
+- 🧩 **Multi-Agent Orchestration:** CrewAI, LangGraph, OpenAI Agents SDK.
+- 🧠 **AI Engineering:** RAG, Vector Databases (Qdrant/Milvus), Embeddings, and Fine-tuning.
+- 🗣️ **Audio & NLP:** Speech Recognition (Whisper/Faster-Whisper), TTS, and NLTK/SpaCy pipelines.
+- 🛡️ **Production Patterns:** Evaluation loops, Guardrails, Dockerized Code Execution.
+- 🔐 **Security:** Cybersecurity & Ethical Hacking (Kali Linux daily driver).
+- ⚙️ **Backend:** NestJS, Python (FastAPI/Django), and Microservices.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=python&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -68,6 +81,9 @@ I founded and currently lead **Ijwi ry'Ikirundi AI**, an open-source organizatio
 
 ## 🛠️ Technologies & Tools
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-ORANGE?style=for-the-badge&logo=robot&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-0066FF?style=for-the-badge&logo=keycloak&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
@@ -76,11 +92,17 @@ I founded and currently lead **Ijwi ry'Ikirundi AI**, an open-source organizatio
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-F9A825?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A3FF?style=for-the-badge&logo=milvus&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F00?style=for-the-badge&logo=qdrant&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![SpaCy](https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spaCy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3e8bc3?style=for-the-badge&logo=python&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-FFA500?style=for-the-badge&logo=python&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -137,6 +159,20 @@ A comprehensive backend solution micro-service for user authentication, authoriz
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Sama-ndari&theme=tokyonight&margin-w=5&no-frame=true) -->
 
+## 🎓 Education & Background
+
+| Degree / Diploma | Institution | Year |
+| :--- | :--- | :--- |
+| **B.S. Software Engineering** | Lake Tanganyika University | 2021 - 2024 |
+| **Diploma in Nursing** | Ecole Paramedicale de Gitega | 2017 - 2021 |
+
+## 📚 Certifications & Continuous Learning
+
+| Course / Bootcamp | Key Skills Acquired |
+| :--- | :--- |
+| **AI Engineer Bootcamp 2025** | **NLP & Speech:** Tokenization, Lemmatization, Whisper implementation.<br>**Vector Search:** RAG pipelines with Pinecone & Faiss.<br>**Prototyping:** Built AI Interviewer with Streamlit & Session State.<br>**Ethics:** Bias mitigation and Responsible AI lifecycle. |
+| **Agentic AI Engineering** | **Systems:** Multi-agent orchestration, Tool calling, Evaluation loops.<br>**Frameworks:** CrewAI, OpenAI Agents SDK. |
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/????????)
@@ -150,6 +186,7 @@ A comprehensive backend solution micro-service for user authentication, authoriz
 ## 🎸 Fun Facts & Interests
 
 - ⌨️ You can’t beat me at typing
+- 🏥 **Former Nurse turned Engineer** — I treat production bugs like medical emergencies.
 - 🎵 Music producer & late-night coder
 - 🍭 Sweet tooth certified — I debug with chocolate
 - 🕹️ Gamer, hacker, and tech philosopher
