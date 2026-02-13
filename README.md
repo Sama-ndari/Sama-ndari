@@ -18,13 +18,16 @@ I founded and currently lead **Ijwi ry'Ikirundi AI**, an open-source organizatio
 
 ## 🤖 Recent Deep Dive: Agentic AI Engineering
 
-I recently completed an intensive sprint building **Autonomous Systems** using Raw Python, OpenAI SDK, and CrewAI.
+Completed a comprehensive **6-week, 5-framework** intensive building **Autonomous Systems** — from raw LLM API patterns to production-grade multi-agent architectures.
 
 | Framework | Project & Highlights |
 | :--- | :--- |
 | **Raw Python** | **[Professionally You Chatbot](https://github.com/Sama-ndari/llm-semantic-drift-analysis)**<br>Built framework-free agentic patterns (Rerun, Eval loops) and deployed to HuggingFace. |
 | **OpenAI SDK** | **[Deep Research & SDR Agents](https://github.com/Sama-ndari/autonomous-sdr-agent)**<br>Engineered autonomous agents for complex research and sales with safety guardrails. |
 | **CrewAI** | **[Dev Swarm Agency](https://github.com/Sama-ndari/dev-swarm-autonomous-agency)**<br>Modeled a full software team (Lead, Dev, QA) running code in **Docker** containers. |
+| **LangGraph** | State machine-based orchestration with checkpointing, conditional routing, and browser automation agents. |
+| **AutoGen** | AgentChat communication, Core infrastructure, and distributed multi-agent runtimes. |
+| **MCP** | Built custom MCP servers/clients, 44+ tools across 4 AI traders with knowledge graph memory and real-time Gradio dashboard. |
 
 ---
 
@@ -36,15 +39,17 @@ I recently completed an intensive sprint building **Autonomous Systems** using R
 - 🧬 **[Enterprise RAG ChatBot](https://github.com/Sama-ndari/enterprise-rag-chatbot)** — A fully containerized production-ready, framework-free RAG microservice.
 - 🌍 **[Burundian Language Identifier](https://github.com/Sama-ndari/burundi-language-classifier)** — Custom-trained NLP model to classify Kirundi, French, Swahili, and English. **[Live Demo Here!](https://huggingface.co/spaces/samandari/burundi-lang-id)**
 - 📱 **[SamandariApp](https://github.com/Sama-ndari/SamandariApp)** — Flutter-based productivity hub powered by AI and customizable widgets.
+- 💰 **[E-Sama: Boutique & POS](https://drive.google.com/file/d/1HhG-0U46eTxKDo74Wy1AdXYlABgmqzca/view?usp=sharing)** — Production Flutter POS app with paying users. Supports 3 store types (Retail, Restaurant, Rental), 3 languages, offline-first with AES-256 encryption, subscription-based SaaS model.
 
 ## 🔬 Focus Areas
 
-- 🧩 **Multi-Agent Orchestration:** CrewAI, LangGraph, OpenAI Agents SDK.
+- 🧩 **Multi-Agent Orchestration:** CrewAI, LangGraph, AutoGen, OpenAI Agents SDK, MCP.
 - 🧠 **AI Engineering:** RAG, Vector Databases (Qdrant/Milvus), Embeddings, and Fine-tuning.
 - 🗣️ **Audio & NLP:** Speech Recognition (Whisper/Faster-Whisper), TTS, and NLTK/SpaCy pipelines.
 - 🛡️ **Production Patterns:** Evaluation loops, Guardrails, Dockerized Code Execution.
-- 🔐 **Security:** Cybersecurity & Ethical Hacking (Kali Linux daily driver).
+- 🔐 **Security:** Cybersecurity, SOC Analysis (MITRE ATT&CK), Ethical Hacking (Kali Linux daily driver).
 - ⚙️ **Backend:** NestJS, Python (FastAPI/Django), and Microservices.
+- 📱 **Mobile:** Flutter (Hive, Provider, AES-256 encryption, Bluetooth ESC/POS printing).
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -83,6 +88,10 @@ I recently completed an intensive sprint building **Autonomous Systems** using R
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-ORANGE?style=for-the-badge&logo=robot&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-E74C3C?style=for-the-badge&logo=microsoft&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6F42C1?style=for-the-badge&logo=protocol&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-0066FF?style=for-the-badge&logo=keycloak&logoColor=white)
@@ -144,6 +153,10 @@ I recently completed an intensive sprint building **Autonomous Systems** using R
 ### [Kirundi Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)
 
 🇧🇮 The first large-scale, open-source speech and text dataset for Kirundi language. A community-driven initiative building AI capabilities for 12M+ Kirundi speakers through collaborative data collection, featuring ASR, TTS, and machine translation capabilities with comprehensive documentation and automation tools.
+
+### [E-Sama: Boutique & POS](https://drive.google.com/file/d/1HhG-0U46eTxKDo74Wy1AdXYlABgmqzca/view?usp=sharing)
+
+💰 Production Flutter POS & shop management app with **paying users**. Supports 3 store types (Retail, Restaurant, Rental), 3 languages (EN/FR/SW), offline-first architecture with AES-256 encryption, Bluetooth thermal printing, CRM & loyalty, and subscription-based SaaS monetization.
 
 ### [User-Management](https://github.com/Sama-ndari/user-management-nestJS)
 
