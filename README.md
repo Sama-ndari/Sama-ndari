@@ -19,7 +19,6 @@ I founded and currently lead **Ijwi ry'Ikirundi AI**, an open-source organizatio
 ## 🤖 Recent Deep Dive: Agentic AI Engineering
 
 Completed a comprehensive **6-week, 5-framework** intensive building **Autonomous Systems** — from raw LLM API patterns to production-grade multi-agent architectures.
-
 | Framework | Project & Highlights |
 | :--- | :--- |
 | **Raw Python** | **[Professionally You Chatbot](https://github.com/Sama-ndari/llm-semantic-drift-analysis)**<br>Built framework-free agentic patterns (Rerun, Eval loops) and deployed to HuggingFace. |
@@ -39,7 +38,7 @@ Completed a comprehensive **6-week, 5-framework** intensive building **Autonomou
 - 🧬 **[Enterprise RAG ChatBot](https://github.com/Sama-ndari/enterprise-rag-chatbot)** — A fully containerized production-ready, framework-free RAG microservice.
 - 🌍 **[Burundian Language Identifier](https://github.com/Sama-ndari/burundi-language-classifier)** — Custom-trained NLP model to classify Kirundi, French, Swahili, and English. **[Live Demo Here!](https://huggingface.co/spaces/samandari/burundi-lang-id)**
 - 📱 **[SamandariApp](https://github.com/Sama-ndari/SamandariApp)** — Flutter-based productivity hub powered by AI and customizable widgets.
-- 💰 **[E-Sama: Boutique & POS](https://drive.google.com/file/d/1HhG-0U46eTxKDo74Wy1AdXYlABgmqzca/view?usp=sharing)** — Production Flutter POS app with paying users. Supports 3 store types (Retail, Restaurant, Rental), 3 languages, offline-first with AES-256 encryption, subscription-based SaaS model.
+- 💰 **[E-Sama: Boutique & POS](https://drive.google.com/file/d/1HhG-0U46eTxKDo74Wy1AdXYlABgmqzca/view?usp=sharing)** — Production Flutter POS app with paying users. Supports 3 store types (Retail, Restaurant, Rental), 3 languages, offline-first with AES-256 encryption , subscription-based SaaS model.
 
 ## 🔬 Focus Areas
 
