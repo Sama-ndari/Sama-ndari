@@ -32,13 +32,13 @@ Completed a comprehensive **6-week, 5-framework** intensive building **Autonomou
 
 ## 🧠 Flagship Projects
 
-- 🇧🇮 **[Kirundi Open Speech & Text Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)** — The first large-scale, open-source speech and text dataset for Kirundi. Leading a community of contributors to build resources for ASR, TTS, and Machine Translation.
-- 🎮 **[Kirundi Contribution App](https://github.com/Sama-ndari/kirundi-contribution-app)** — A gamified web platform for crowdsourcing language data. Features "Easy" and "Medium" levels to make contributing fun and accessible. **[Play Live Here!](https://sama-ndari.github.io/kirundi-contribution-app/)**
-- 🚀 **[Dev Swarm: Autonomous Software Agency](https://github.com/Sama-ndari/dev-swarm-autonomous-agency)** — A multi-agent AI system where autonomous agents (Manager, Backend, Frontend, QA) collaborate to build software. Features Dockerized code execution for safety and hierarchical task delegation using CrewAI.
-- 🧬 **[Enterprise RAG ChatBot](https://github.com/Sama-ndari/enterprise-rag-chatbot)** — A fully containerized production-ready, framework-free RAG microservice.
-- 🌍 **[Burundian Language Identifier](https://github.com/Sama-ndari/burundi-language-classifier)** — Custom-trained NLP model to classify Kirundi, French, Swahili, and English. **[Live Demo Here!](https://huggingface.co/spaces/samandari/burundi-lang-id)**
-- 📱 **[Velora](https://drive.google.com/file/d/1zt4N9ZE8QJntwgVg5m4yga5LgKfoQ_E-/view?usp=drive_link)** — Flutter-based productivity hub powered by AI and customizable widgets.
-- 💰 **[E-Sama: Boutique & POS](https://drive.google.com/file/d/1HhG-0U46eTxKDo74Wy1AdXYlABgmqzca/view?usp=sharing)** — Production Flutter POS app with paying users. Supports 3 store types (Retail, Restaurant, Rental), 3 languages, offline-first with AES-256 encryption , subscription-based SaaS model.
+- 🇧🇮 **[Kirundi Open Speech & Text Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)**   The first large-scale, open-source speech and text dataset for Kirundi. Leading a community of contributors to build resources for ASR, TTS, and Machine Translation.
+- 🎮 **[Kirundi Contribution App](https://github.com/Sama-ndari/kirundi-contribution-app)**   A gamified web platform for crowdsourcing language data. Features "Easy" and "Medium" levels to make contributing fun and accessible. **[Play Live Here!](https://sama-ndari.github.io/kirundi-contribution-app/)**
+- 🚀 **[Dev Swarm: Autonomous Software Agency](https://github.com/Sama-ndari/dev-swarm-autonomous-agency)**   A multi-agent AI system where autonomous agents (Manager, Backend, Frontend, QA) collaborate to build software. Features Dockerized code execution for safety and hierarchical task delegation using CrewAI.
+- 🧬 **[Enterprise RAG ChatBot](https://github.com/Sama-ndari/enterprise-rag-chatbot)**   A fully containerized production-ready, framework-free RAG microservice.
+- 🌍 **[Burundian Language Identifier](https://github.com/Sama-ndari/burundi-language-classifier)**   Custom-trained NLP model to classify Kirundi, French, Swahili, and English. **[Live Demo Here!](https://huggingface.co/spaces/samandari/burundi-lang-id)**
+- 📱 **[Velora](https://drive.google.com/file/d/1zt4N9ZE8QJntwgVg5m4yga5LgKfoQ_E-/view?usp=drive_link)**   Flutter-based productivity hub powered by AI and customizable widgets.
+- 💰 **[E-Sama: Boutique & POS](https://drive.google.com/file/d/1HhG-0U46eTxKDo74Wy1AdXYlABgmqzca/view?usp=sharing)**   Production Flutter POS app with paying users. Supports 3 store types (Retail, Restaurant, Rental), 3 languages, offline-first with AES-256 encryption , subscription-based SaaS model.
 
 ## 🔬 Focus Areas
 
@@ -198,9 +198,9 @@ A comprehensive backend solution micro-service for user authentication, authoriz
 ## 🎸 Fun Facts & Interests
 
 - ⌨️ You can’t beat me at typing
-- 🏥 **Former Nurse turned Engineer** — I treat production bugs like medical emergencies.
+- 🏥 **Former Nurse turned Engineer**   I treat production bugs like medical emergencies.
 - 🎵 Music producer & late-night coder
-- 🍭 Sweet tooth certified — I debug with chocolate
+- 🍭 Sweet tooth certified , I debug with chocolate
 - 🕹️ Gamer, hacker, and tech philosopher
 
 ### ✍🏾 Random Dev Quote
