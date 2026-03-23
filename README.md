@@ -37,8 +37,7 @@ Completed a comprehensive **6-week, 5-framework** intensive building **Autonomou
 - 🚀 **[Dev Swarm: Autonomous Software Agency](https://github.com/Sama-ndari/dev-swarm-autonomous-agency)**   A multi-agent AI system where autonomous agents (Manager, Backend, Frontend, QA) collaborate to build software. Features Dockerized code execution for safety and hierarchical task delegation using CrewAI.
 - 🧬 **[Enterprise RAG ChatBot](https://github.com/Sama-ndari/enterprise-rag-chatbot)**   A fully containerized production-ready, framework-free RAG microservice.
 - 🌍 **[Burundian Language Identifier](https://github.com/Sama-ndari/burundi-language-classifier)**   Custom-trained NLP model to classify Kirundi, French, Swahili, and English. **[Live Demo Here!](https://huggingface.co/spaces/samandari/burundi-lang-id)**
-- 📱 **[Velora](https://drive.google.com/file/d/1zt4N9ZE8QJntwgVg5m4yga5LgKfoQ_E-/view?usp=drive_link)**   Flutter-based productivity hub powered by AI and customizable widgets.
-- 💰 **[E-Sama: Boutique & POS](https://drive.google.com/file/d/1HhG-0U46eTxKDo74Wy1AdXYlABgmqzca/view?usp=sharing)**   Production Flutter POS app with paying users. Supports 3 store types (Retail, Restaurant, Rental), 3 languages, offline-first with AES-256 encryption , subscription-based SaaS model.
+- 📱💰 **[E-Sama: Boutique & POS](https://sama-ndari.github.io/Sama-Apps/apps/esama/)**   Production Flutter POS app with paying users. Supports 3 store types (Retail, Restaurant, Rental), 3 languages, offline-first with AES-256 encryption , subscription-based SaaS model.
 
 ## 🔬 Focus Areas
 
