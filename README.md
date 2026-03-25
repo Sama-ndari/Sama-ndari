@@ -188,7 +188,7 @@ A comprehensive backend solution micro-service for user authentication, authoriz
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/????????)
 [![X](https://img.shields.io/badge/X-black?logo=x)](https://x.com/???????s=20)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=firefox-browser)](https://sama-ndari.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=firefox-browser)](https://sama-ndari.github.io/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/?????????igsh=MWFic2todzA4aGZteg==)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=0000000000&mibextid=jtWzXIAxfKx1VBOC)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+00000000)
