@@ -33,11 +33,11 @@ Completed a comprehensive **6-week, 5-framework** intensive building **Autonomou
 ## 🧠 Flagship Projects
 
 - 🇧🇮 **[Kirundi Open Speech & Text Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)**   The first large-scale, open-source speech and text dataset for Kirundi. Leading a community of contributors to build resources for ASR, TTS, and Machine Translation.
-- 🎮 **[Kirundi Contribution App](https://github.com/Sama-ndari/kirundi-contribution-app)**   A gamified web platform for crowdsourcing language data. Features "Easy" and "Medium" levels to make contributing fun and accessible. **[Play Live Here!](https://sama-ndari.github.io/kirundi-contribution-app/)**
+- 🎮 **[Kirundi Contribution App](https://github.com/Sama-ndari/kirundi-contribution-app)**   A gamified web platform for crowdsourcing language data. Features "Easy" and "Medium" levels to make contributing fun and accessible. **[Play Live Here!](https://www.samandari.dev/kirundi-contribution-app/)**
 - 🚀 **[Dev Swarm: Autonomous Software Agency](https://github.com/Sama-ndari/dev-swarm-autonomous-agency)**   A multi-agent AI system where autonomous agents (Manager, Backend, Frontend, QA) collaborate to build software. Features Dockerized code execution for safety and hierarchical task delegation using CrewAI.
 - 🧬 **[Enterprise RAG ChatBot](https://github.com/Sama-ndari/enterprise-rag-chatbot)**   A fully containerized production-ready, framework-free RAG microservice.
 - 🌍 **[Burundian Language Identifier](https://github.com/Sama-ndari/burundi-language-classifier)**   Custom-trained NLP model to classify Kirundi, French, Swahili, and English. **[Live Demo Here!](https://huggingface.co/spaces/samandari/burundi-lang-id)**
-- 📱💰 **[E-Sama: Boutique & POS](https://sama-ndari.github.io/Sama-Apps/apps/esama/)**   Production Flutter POS app with paying users. Supports 3 store types (Retail, Restaurant, Rental), 3 languages, offline-first with AES-256 encryption , subscription-based SaaS model.
+- 📱💰 **[E-Sama: Boutique & POS](https://apps.samandari.dev/apps/esama/)**   Production Flutter POS app with paying users. Supports 3 store types (Retail, Restaurant, Rental), 3 languages, offline-first with AES-256 encryption , subscription-based SaaS model.
 
 ## 🔬 Focus Areas
 
@@ -188,7 +188,7 @@ A comprehensive backend solution micro-service for user authentication, authoriz
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/????????)
 [![X](https://img.shields.io/badge/X-black?logo=x)](https://x.com/???????s=20)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=firefox-browser)](https://sama-ndari.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=firefox-browser)](https://www.samandari.dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/?????????igsh=MWFic2todzA4aGZteg==)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=0000000000&mibextid=jtWzXIAxfKx1VBOC)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+00000000)
