@@ -1,18 +1,18 @@
 <div align="center">
 
-<a href="https://www.samandari.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=280&height=45&lines=Samandari" alt="Samandari" />
-</a>
+# Hey, I'm Samandari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=520&height=22&lines=AI+Engineer+%E2%80%A2+Backend+Architect+%E2%80%A2+Open+Source;Building+AI+for+underrepresented+languages;Emergency+Medicine+%E2%86%92+Software+Engineering" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=550&height=28&lines=AI+Engineer+%E2%80%A2+Backend+Architect+%E2%80%A2+Open+Source;Building+AI+for+underrepresented+languages;Emergency+Medicine+%E2%86%92+Software+Engineering" alt="Tagline" />
 
-<br/><br/>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/samandari.dev-0d1117?style=flat-square&logo=firefox-browser&logoColor=58a6ff)](https://www.samandari.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/jules-cesar-junior-ndayisenga-8b79592a8)
-[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-0d1117?style=flat-square&logo=huggingface&logoColor=58a6ff)](https://huggingface.co/samandari)
-[![X](https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=58a6ff)](https://x.com/La_casse_?s=20)
-&nbsp;&nbsp;
+<a href="https://www.samandari.dev"><img src="https://img.shields.io/badge/Portfolio-samandari.dev-58a6ff?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jules-cesar-junior-ndayisenga-8b79592a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://huggingface.co/samandari"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+<a href="https://x.com/La_casse_?s=20"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=Sama-ndari&style=flat-square&color=58a6ff&label=visitors" alt="visitors" />
 
 </div>
