@@ -10,14 +10,9 @@
 <a href="https://www.linkedin.com/in/jules-cesar-junior-ndayisenga-8b79592a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://huggingface.co/samandari"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
 <a href="https://x.com/La_casse_?s=20"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=Sama-ndari&style=flat-square&color=58a6ff&label=visitors" alt="visitors" />
 
 </div>
-
-<br/>
 
 ```js
 const samandari = {
