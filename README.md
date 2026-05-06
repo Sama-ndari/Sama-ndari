@@ -5,16 +5,6 @@
 
 <picture><img src=".github/assets/terminal-main.svg" width="100%" /></picture>
 
-<details>
-<summary><sub>clickable links</sub></summary>
-<br/>
-
-- [Kirundi Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset) · [Contribution App](https://www.samandari.dev/kirundi-contribution-app/) · [Lang Identifier](https://huggingface.co/spaces/samandari/burundi-lang-id)
-- [Dev Swarm](https://github.com/Sama-ndari/dev-swarm-autonomous-agency) · [Enterprise RAG](https://github.com/Sama-ndari/enterprise-rag-chatbot) · [Autonomous SDR](https://github.com/Sama-ndari/autonomous-sdr-agent) · [SentinelAI](https://github.com/Sama-ndari/sentinelai-soc-assistant)
-- [E-Sama POS](https://apps.samandari.dev/app.html?id=esama) · [YIMBurundi](https://www.yimburundi.com)
-
-</details>
-
 <picture><img src=".github/assets/terminal-neofetch.svg" width="100%" /></picture>
 
 <br/>
