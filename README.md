@@ -1,113 +1,99 @@
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   samandari@github ~ $  whoami                                   │
+│                                                                  │
+│   Jules César Junior NDAYISENGA                                  │
+│   AI Engineer & Founder                                          │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
 <div align="center">
 
-<a href="https://www.samandari.dev"><img src="https://www.samandari.dev/assets/img/icon.png" width="26" alt="samandari.dev" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/jules-cesar-junior-ndayisenga-8b79592a8"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;
-<a href="https://huggingface.co/samandari"><img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" /></a>&nbsp;
-<a href="https://x.com/La_casse_?s=20"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Sama-ndari&style=for-the-badge&color=0d1117&labelColor=0d1117" alt="visitors" />
+<a href="https://www.samandari.dev"><img src="https://www.samandari.dev/assets/img/icon.png" width="36" alt="samandari.dev" /></a>
+&emsp;
+<a href="https://www.linkedin.com/in/jules-cesar-junior-ndayisenga-8b79592a8"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" alt="LinkedIn" /></a>
+&emsp;
+<a href="https://huggingface.co/samandari"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="28" alt="Hugging Face" /></a>
+&emsp;
+<a href="https://x.com/La_casse_?s=20"><img src="https://cdn.simpleicons.org/x/000000/ffffff" width="28" alt="X" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=550&height=28&lines=AI+Engineer+%E2%80%A2+Backend+Architect+%E2%80%A2+Open+Source;Building+AI+for+underrepresented+languages;Emergency+Medicine+%E2%86%92+Software+Engineering" alt="Tagline" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sama-ndari&style=flat-square&color=58a6ff&label=profile+views" alt="Profile views" />
 
 </div>
 
-```js
-const samandari = {
-  role: "AI Engineer & Founder",
-  company: "Asyst Resources LTD",
-  founded: "Ijwi ry'Ikirundi AI",
-  mission: "Building AI for Africa",
-  background: "Emergency Medicine → Software Engineering",
-  available: true,
-};
+---
+
+```bash
+samandari@github ~ $ cat about.txt
 ```
 
-AI Engineer at **[Asyst](https://asyst.io)**, building autonomous agents, RAG systems, and scalable backends.
-Founder of **[Ijwi ry'Ikirundi AI](https://github.com/Ijwi-ry-Ikirundi-AI)**, open-source AI infrastructure for Kirundi, spoken by 12M+ people yet invisible to AI.
-
-> _Before tech, I spent 20+ months in Emergency Medicine across Burundi._
-> _Triaging with limited resources shaped how I engineer today: **reliability first, plan for failure, never assume perfect conditions.**_
+> AI Engineer at [Asyst Resources LTD](https://asyst.io), building autonomous agents,
+> RAG systems, and scalable backends.
+>
+> Founder of [Ijwi ry'Ikirundi AI](https://github.com/Ijwi-ry-Ikirundi-AI), open-source
+> AI infrastructure for Kirundi, spoken by 12M+ people yet invisible to AI.
+>
+> Before tech, I spent 20+ months in Emergency Medicine across Burundi.
+> Triaging with limited resources shaped how I engineer today:
+> **reliability first, plan for failure, never assume perfect conditions.**
 
 ---
 
-### Flagship
-
-> **Kirundi Language AI** · [Ijwi ry'Ikirundi AI](https://github.com/Ijwi-ry-Ikirundi-AI)
-
-| | Project | Description |
-|:--|:--------|:------------|
-| `dataset` | **[Kirundi Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)** | First open-source speech & text corpus for Kirundi, community-driven |
-| `app` | **[Contribution App](https://www.samandari.dev/kirundi-contribution-app/)** | Gamified crowdsourcing platform for language data |
-| `model` | **[Lang Identifier](https://huggingface.co/spaces/samandari/burundi-lang-id)** | NLP classifier for Kirundi, French, Swahili, English |
-
-> **AI & Agents**
+```bash
+samandari@github ~ $ ls ~/projects/kirundi-ai/
+```
 
 | | Project | Description |
 |:--|:--------|:------------|
-| `swarm` | **[Dev Swarm](https://github.com/Sama-ndari/dev-swarm-autonomous-agency)** | Multi-agent dev team collaborating inside Docker |
-| `rag` | **[Enterprise RAG](https://github.com/Sama-ndari/enterprise-rag-chatbot)** | Framework-free containerized RAG microservice |
-| `sdr` | **[Autonomous SDR](https://github.com/Sama-ndari/autonomous-sdr-agent)** | Research & sales agents with safety guardrails |
-| `soc` | **[SentinelAI](https://github.com/Sama-ndari/sentinelai-soc-assistant)** | SOC assistant with MITRE ATT&CK mapping |
+| `dataset/` | **[Kirundi Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)** | First open-source speech & text corpus for Kirundi, community-driven |
+| `app/` | **[Contribution App](https://www.samandari.dev/kirundi-contribution-app/)** | Gamified crowdsourcing platform for language data |
+| `model/` | **[Lang Identifier](https://huggingface.co/spaces/samandari/burundi-lang-id)** | NLP classifier for Kirundi, French, Swahili, English |
 
-> **Production**
+```bash
+samandari@github ~ $ ls ~/projects/agents/
+```
 
 | | Project | Description |
 |:--|:--------|:------------|
-| `pos` | **[E-Sama POS](https://apps.samandari.dev/app.html?id=esama)** | Flutter POS, paying users, offline-first, AES-256, 3 languages |
-| `vol` | **[YIMBurundi](https://www.yimburundi.com)** | Volunteer project, youth impact mission Burundi platform |
+| `swarm/` | **[Dev Swarm](https://github.com/Sama-ndari/dev-swarm-autonomous-agency)** | Multi-agent dev team collaborating inside Docker |
+| `rag/` | **[Enterprise RAG](https://github.com/Sama-ndari/enterprise-rag-chatbot)** | Framework-free containerized RAG microservice |
+| `sdr/` | **[Autonomous SDR](https://github.com/Sama-ndari/autonomous-sdr-agent)** | Research & sales agents with safety guardrails |
+| `soc/` | **[SentinelAI](https://github.com/Sama-ndari/sentinelai-soc-assistant)** | SOC assistant with MITRE ATT&CK mapping |
+
+```bash
+samandari@github ~ $ ls ~/projects/production/
+```
+
+| | Project | Description |
+|:--|:--------|:------------|
+| `pos/` | **[E-Sama POS](https://apps.samandari.dev/app.html?id=esama)** | Flutter POS, paying users, offline-first, AES-256, 3 languages |
+| `vol/` | **[YIMBurundi](https://www.yimburundi.com)** | Volunteer project, youth impact mission Burundi platform |
 
 ---
 
 <details>
-<summary><b>Stack</b></summary>
+<summary><code>samandari@github ~ $ neofetch --stack</code></summary>
 <br/>
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
-**AI & ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A1F?style=flat-square&logo=robot&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4F00?style=flat-square&logo=qdrant&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square&logo=pinecone&logoColor=white)
-
-**Backend & Infra**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-0066FF?style=flat-square&logo=keycloak&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-000?style=flat-square&logo=vault&logoColor=white)
-
-**Frontend & Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-
-**DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+```
+                   .,,,.                  samandari@github
+                 .,'   ',                 ─────────────────
+                .'       '.               Languages: Python, TypeScript, Dart, Java, C#
+               /   _   _   \              AI/ML:     OpenAI, LangChain, CrewAI, AutoGen, MCP,
+              |   (o) (o)   |                         HuggingFace, PyTorch, TensorFlow,
+              |      >      |                         Qdrant, Milvus, Pinecone
+              |    \___/    |              Backend:   NestJS, FastAPI, Django, Node.js
+               \           /              Data:      PostgreSQL, MongoDB, Redis, Prisma
+                '._     _.'               Infra:     RabbitMQ, Kafka, Keycloak, Vault
+                   '''''                  Mobile:    Flutter, React, TailwindCSS, Electron
+                                          DevOps:    Docker, GitHub Actions, Linux, Kali
+                                          Shell:     zsh
+                                          Editor:    Cursor
+```
 
 </details>
 
@@ -142,6 +128,12 @@ Founder of **[Ijwi ry'Ikirundi AI](https://github.com/Ijwi-ry-Ikirundi-AI)**, op
 
 ---
 
-<div align="center">
-  <sub>Emergency Medicine → Software Engineering. I treat production bugs like medical emergencies.</sub>
-</div>
+```bash
+samandari@github ~ $ echo $MOTTO
+```
+
+> _Emergency Medicine → Software Engineering. I treat production bugs like medical emergencies._
+
+```bash
+samandari@github ~ $ exit
+```
