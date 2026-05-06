@@ -1,11 +1,9 @@
-<picture><img src=".github/assets/terminal-about.svg" width="100%" /></picture>
-
 [![samandari.dev](https://img.shields.io/badge/samandari.dev-58a6ff?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.samandari.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jules-cesar-junior-ndayisenga-8b79592a8)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/samandari)
 [![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://x.com/La_casse_?s=20)
 
-<picture><img src=".github/assets/terminal-projects.svg" width="100%" /></picture>
+<picture><img src=".github/assets/terminal-main.svg" width="100%" /></picture>
 
 <details>
 <summary><sub>clickable links</sub></summary>
