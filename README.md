@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.samandari.dev"><img src="https://img.shields.io/badge/samandari.dev-0d1117?style=for-the-badge&logo=firefox-browser&logoColor=58a6ff" /></a>&nbsp;
+<a href="https://www.samandari.dev"><img src="https://www.samandari.dev/assets/img/icon.png" width="28" alt="samandari.dev" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/jules-cesar-junior-ndayisenga-8b79592a8"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;
 <a href="https://huggingface.co/samandari"><img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" /></a>&nbsp;
 <a href="https://x.com/La_casse_?s=20"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
