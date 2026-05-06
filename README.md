@@ -1,10 +1,10 @@
 <div align="center">
 
-<a href="https://www.samandari.dev"><img src="https://img.shields.io/badge/samandari.dev-58a6ff?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/jules-cesar-junior-ndayisenga-8b79592a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://huggingface.co/samandari"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-<a href="https://x.com/La_casse_?s=20"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=Sama-ndari&style=for-the-badge&color=58a6ff&label=visitors" alt="visitors" />
+<a href="https://www.samandari.dev"><img src="https://img.shields.io/badge/samandari.dev-0d1117?style=for-the-badge&logo=firefox-browser&logoColor=58a6ff" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/jules-cesar-junior-ndayisenga-8b79592a8"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;
+<a href="https://huggingface.co/samandari"><img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" /></a>&nbsp;
+<a href="https://x.com/La_casse_?s=20"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Sama-ndari&style=for-the-badge&color=0d1117&labelColor=0d1117" alt="visitors" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=550&height=28&lines=AI+Engineer+%E2%80%A2+Backend+Architect+%E2%80%A2+Open+Source;Building+AI+for+underrepresented+languages;Emergency+Medicine+%E2%86%92+Software+Engineering" alt="Tagline" />
 
