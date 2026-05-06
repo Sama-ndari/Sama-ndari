@@ -5,7 +5,7 @@
 
 <picture><img src=".github/assets/terminal-main.svg" width="100%" /></picture>
 
-<picture><img src=".github/assets/terminal-neofetch.svg" width="100%" /></picture>
+<picture><img src=".github/assets/terminal-stacks.svg" width="100%" /></picture>
 
 <br/>
 
