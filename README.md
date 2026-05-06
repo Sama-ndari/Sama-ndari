@@ -1,10 +1,16 @@
 <div align="center">
 
-<a href="https://www.samandari.dev"><img src="https://www.samandari.dev/assets/img/icon.png" width="28" alt="samandari.dev" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/jules-cesar-junior-ndayisenga-8b79592a8"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;
-<a href="https://huggingface.co/samandari"><img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" /></a>&nbsp;
-<a href="https://x.com/La_casse_?s=20"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Sama-ndari&style=for-the-badge&color=0d1117&labelColor=0d1117" alt="visitors" />
+<a href="https://www.samandari.dev"><img src="https://www.samandari.dev/assets/img/icon.png" width="36" alt="samandari.dev" /></a>
+&emsp;
+<a href="https://www.linkedin.com/in/jules-cesar-junior-ndayisenga-8b79592a8"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" alt="LinkedIn" /></a>
+&emsp;
+<a href="https://huggingface.co/samandari"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="28" alt="Hugging Face" /></a>
+&emsp;
+<a href="https://x.com/La_casse_?s=20"><img src="https://cdn.simpleicons.org/x/000000/ffffff" width="28" alt="X" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sama-ndari&style=flat-square&color=58a6ff&label=profile+views" alt="Profile views" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=550&height=28&lines=AI+Engineer+%E2%80%A2+Backend+Architect+%E2%80%A2+Open+Source;Building+AI+for+underrepresented+languages;Emergency+Medicine+%E2%86%92+Software+Engineering" alt="Tagline" />
 
@@ -21,8 +27,8 @@ const samandari = {
 };
 ```
 
-AI Engineer at **[Asyst](https://asyst.io)** — building autonomous agents, RAG systems, and scalable backends.
-Founder of **[Ijwi ry'Ikirundi AI](https://github.com/Ijwi-ry-Ikirundi-AI)** — open-source AI infrastructure for Kirundi, spoken by 12M+ people yet invisible to AI.
+AI Engineer at **[Asyst](https://asyst.io)**, building autonomous agents, RAG systems, and scalable backends.
+Founder of **[Ijwi ry'Ikirundi AI](https://github.com/Ijwi-ry-Ikirundi-AI)**, open-source AI infrastructure for Kirundi, spoken by 12M+ people yet invisible to AI.
 
 > _Before tech, I spent 20+ months in Emergency Medicine across Burundi._
 > _Triaging with limited resources shaped how I engineer today: **reliability first, plan for failure, never assume perfect conditions.**_
@@ -31,13 +37,13 @@ Founder of **[Ijwi ry'Ikirundi AI](https://github.com/Ijwi-ry-Ikirundi-AI)** —
 
 ### Flagship
 
-> **Kirundi Language AI** — [Ijwi ry'Ikirundi AI](https://github.com/Ijwi-ry-Ikirundi-AI)
+> **Kirundi Language AI** · [Ijwi ry'Ikirundi AI](https://github.com/Ijwi-ry-Ikirundi-AI)
 
 | | Project | Description |
 |:--|:--------|:------------|
-| `dataset` | **[Kirundi Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)** | First open-source speech & text corpus for Kirundi — community-driven |
+| `dataset` | **[Kirundi Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)** | First open-source speech & text corpus for Kirundi, community-driven |
 | `app` | **[Contribution App](https://www.samandari.dev/kirundi-contribution-app/)** | Gamified crowdsourcing platform for language data |
-| `model` | **[Lang Identifier](https://huggingface.co/spaces/samandari/burundi-lang-id)** | NLP classifier — Kirundi, French, Swahili, English |
+| `model` | **[Lang Identifier](https://huggingface.co/spaces/samandari/burundi-lang-id)** | NLP classifier for Kirundi, French, Swahili, English |
 
 > **AI & Agents**
 
@@ -52,8 +58,8 @@ Founder of **[Ijwi ry'Ikirundi AI](https://github.com/Ijwi-ry-Ikirundi-AI)** —
 
 | | Project | Description |
 |:--|:--------|:------------|
-| `pos` | **[E-Sama POS](https://apps.samandari.dev/app.html?id=esama)** | Flutter POS — paying users, offline-first, AES-256, 3 languages |
-| `vol` | **[YIMBurundi](https://www.yimburundi.com)** | Volunteer project — youth impact mission Burundi platform |
+| `pos` | **[E-Sama POS](https://apps.samandari.dev/app.html?id=esama)** | Flutter POS, paying users, offline-first, AES-256, 3 languages |
+| `vol` | **[YIMBurundi](https://www.yimburundi.com)** | Volunteer project, youth impact mission Burundi platform |
 
 ---
 
@@ -143,5 +149,5 @@ Founder of **[Ijwi ry'Ikirundi AI](https://github.com/Ijwi-ry-Ikirundi-AI)** —
 ---
 
 <div align="center">
-  <sub>Emergency Medicine → Software Engineering — I treat production bugs like medical emergencies.</sub>
+  <sub>Emergency Medicine → Software Engineering. I treat production bugs like medical emergencies.</sub>
 </div>
