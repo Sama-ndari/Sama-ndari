@@ -18,51 +18,6 @@
 
 ---
 
-## Featured Work
-
-### [Ijwi ry'Ikirundi AI](https://github.com/Ijwi-ry-Ikirundi-AI) — *Founder & Lead*
-
-Open-source org digitizing the Kirundi language. Building foundational datasets and models for 12M+ speakers.
-
-| Project | Description |
-| :--- | :--- |
-| [Kirundi Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset) | First large-scale open-source speech & text dataset for Kirundi — ASR, TTS, machine translation |
-| [Kirundi Contribution App](https://www.samandari.dev/kirundi-contribution-app/) | Gamified crowdsourcing platform for language data collection |
-| [Burundian Language Identifier](https://huggingface.co/spaces/samandari/burundi-lang-id) | Custom NLP model classifying Kirundi, French, Swahili, and English |
-
-### AI & Agents
-
-| Project | Description |
-| :--- | :--- |
-| [Dev Swarm Agency](https://github.com/Sama-ndari/dev-swarm-autonomous-agency) | Multi-agent system — Manager, Backend, Frontend, QA agents collaborating with Dockerized code execution |
-| [Enterprise RAG ChatBot](https://github.com/Sama-ndari/enterprise-rag-chatbot) | Production-ready, framework-free RAG microservice, fully containerized |
-| [Autonomous SDR Agent](https://github.com/Sama-ndari/autonomous-sdr-agent) | Deep research & sales agents with safety guardrails |
-| [LLM Semantic Drift Analysis](https://github.com/Sama-ndari/llm-semantic-drift-analysis) | Framework-free agentic patterns — rerun loops, eval loops, deployed on HuggingFace |
-
-### Backend & Mobile
-
-| Project | Description |
-| :--- | :--- |
-| [E-Sama POS](https://apps.samandari.dev/apps/esama/) | Production Flutter POS — 3 store types, 3 languages, AES-256 encryption, subscription SaaS |
-| [User Management Service](https://github.com/Sama-ndari/user-management-nestJS) | NestJS microservice with Keycloak, Vault, Swagger, and role-based access |
-
----
-
-## Agentic AI Deep Dive
-
-6-week intensive across 5 frameworks, building production autonomous systems:
-
-| Framework | What I Built |
-| :--- | :--- |
-| Raw Python | Framework-free agentic patterns — rerun loops, eval loops |
-| OpenAI SDK | Autonomous research & SDR agents with guardrails |
-| CrewAI | Full dev team simulation (Lead, Dev, QA) with Docker execution |
-| LangGraph | State machine orchestration, checkpointing, conditional routing |
-| AutoGen | AgentChat, Core infra, distributed multi-agent runtimes |
-| MCP | Custom servers/clients, 44+ tools, 4 AI traders, knowledge graph memory |
-
----
-
 ## Tech Stack
 
 **AI & ML**
