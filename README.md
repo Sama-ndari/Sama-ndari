@@ -1,88 +1,88 @@
-```
-  ● ● ●                          samandari — -zsh — 120×30
+```ansi
+  [31m●[0m [33m●[0m [32m●[0m                          [90msamandari — -zsh — 120×30[0m
  ──────────────────────────────────────────────────────────────────────────────
 
-  Last login: Wed May  6 12:00:00 on console
+  [90mLast login: Wed May  6 12:00:00 on console[0m
 
-  samandari@MacBook-Pro ~ % whoami
+  [1;32msamandari@MacBook-Pro[0m [1;36m~[0m [37m%[0m [1;37mwhoami[0m
 
-    Name      Jules César Junior NDAYISENGA
-    Role      AI Engineer & Founder
-    Company   Asyst Resources LTD
-    Founded   Ijwi ry'Ikirundi AI
-    Mission   Building AI for Africa
-    Origin    Emergency Medicine → Software Engineering
-    Status    Available
+    [1;37mName[0m      Jules César Junior NDAYISENGA
+    [1;37mRole[0m      AI Engineer & Founder
+    [1;37mCompany[0m   Asyst Resources LTD
+    [1;37mFounded[0m   Ijwi ry'Ikirundi AI
+    [1;37mMission[0m   Building AI for Africa
+    [1;37mOrigin[0m    Emergency Medicine → Software Engineering
+    [1;37mStatus[0m    [32mAvailable[0m
 
-  samandari@MacBook-Pro ~ % cat about.txt
+  [1;32msamandari@MacBook-Pro[0m [1;36m~[0m [37m%[0m [1;37mcat[0m about.txt
 
-    AI Engineer at Asyst, building autonomous agents,
+    AI Engineer at [1;36mAsyst[0m, building autonomous agents,
     RAG systems, and scalable backends.
 
-    Founder of Ijwi ry'Ikirundi AI, open-source AI
+    Founder of [1;36mIjwi ry'Ikirundi AI[0m, open-source AI
     infrastructure for Kirundi, spoken by 12M+ people
     yet invisible to AI.
 
     Before tech, I spent 20+ months in Emergency Medicine
     across Burundi. Triaging with limited resources shaped
-    how I engineer: reliability first, plan for failure,
-    never assume perfect conditions.
+    how I engineer: [1;37mreliability first, plan for failure,
+    never assume perfect conditions.[0m
 
-  samandari@MacBook-Pro ~ % ls projects/kirundi-ai/
-    dataset/       First open-source speech & text corpus for Kirundi
-    app/           Gamified crowdsourcing platform for language data
-    model/         NLP classifier for Kirundi, French, Swahili, English
+  [1;32msamandari@MacBook-Pro[0m [1;36m~/projects[0m [37m%[0m [1;37mls[0m kirundi-ai/
+    [1;36mdataset/[0m       First open-source speech & text corpus for Kirundi
+    [1;36mapp/[0m           Gamified crowdsourcing platform for language data
+    [1;36mmodel/[0m         NLP classifier for Kirundi, French, Swahili, English
 
-  samandari@MacBook-Pro ~ % ls projects/agents/
-    swarm/         Multi-agent dev team collaborating inside Docker
-    rag/           Framework-free containerized RAG microservice
-    sdr/           Research & sales agents with safety guardrails
-    soc/           SOC assistant with MITRE ATT&CK mapping
+  [1;32msamandari@MacBook-Pro[0m [1;36m~/projects[0m [37m%[0m [1;37mls[0m agents/
+    [1;36mswarm/[0m         Multi-agent dev team collaborating inside Docker
+    [1;36mrag/[0m           Framework-free containerized RAG microservice
+    [1;36msdr/[0m           Research & sales agents with safety guardrails
+    [1;36msoc/[0m           SOC assistant with MITRE ATT&CK mapping
 
-  samandari@MacBook-Pro ~ % ls projects/production/
-    pos/           Flutter POS, paying users, offline-first, AES-256
-    vol/           YIMBurundi, volunteer youth impact Burundi
+  [1;32msamandari@MacBook-Pro[0m [1;36m~/projects[0m [37m%[0m [1;37mls[0m production/
+    [1;36mpos/[0m           Flutter POS, paying users, offline-first, AES-256
+    [1;36mvol/[0m           YIMBurundi, volunteer youth impact Burundi
 
-  samandari@MacBook-Pro ~ % neofetch
+  [1;32msamandari@MacBook-Pro[0m [1;36m~/stack[0m [37m%[0m [1;37mneofetch[0m
 
-                     .;lodxO0K,          samandari@MacBook-Pro
-                 .,cdOKXNWMMMo          ─────────────────────────
-               .;oOXWMMMMMMMMc          OS       macOS / Kali Linux
-             .,lkKWMMMMMMMMMM:          Shell    zsh
-            .;o0NMMMMMMMMMMM0           Editor   Cursor
-           .ckXWMMMMMMMMMMMMl
-          .l0NMMMMMMMMMMMMMMo           Languages
-         .oKWMMMMMMMMMMMMMMM:            ├── Python, TypeScript
-        .dXWMMMMMMMMMMMMMMMM,            ├── Dart, Java, C#
-       .oNMMMMMMMMMMMMMMMMMW'            └── SQL, Bash
-       lNMMMMMMMMMMMMMMMMMMM.
-      :XMMMMMMMMMMMMMMMMMMM;            AI / ML
-     .dWMMMMMMMMMMMMMMMMMMMd              ├── OpenAI, LangChain, CrewAI
-     cNMMMMMMMMMMMMMMMMMMMMo              ├── AutoGen, MCP, HuggingFace
-    .OMMMMMMMMMMMMMMMMMMMMWl              ├── PyTorch, TensorFlow
-    ;XMMMMMMMMMMMMMMMMMMMMM.              └── Qdrant, Milvus, Pinecone
-    oWMMMMMMMMMMMMMMMMMMMMM:
-    dMMMMMMMMMMMMMMMMMMMMMM;             Backend
-    OMMMMMMMMMMMMMMMMMMMMMMo              ├── NestJS, FastAPI, Django
-    XMMMMMMMMMMMMMMMMMMMMMMK              ├── PostgreSQL, MongoDB, Redis
-    0MMMMMMMMMMMMMMMMMMMMMMW.             ├── Prisma, RabbitMQ, Kafka
-    oWMMMMMMMMMMMMMMMMMMMMMM.             └── Keycloak, Vault
-    .OMMMMMMMMMMMMMMMMMMMMMM.
-     ;XMMMMMMMMMMMMMMMMMMMMo             Mobile / Frontend
-      lNMMMMMMMMMMMMMMMMMM0               ├── Flutter, React
-       cXMMMMMMMMMMMMMMMMNl               └── TailwindCSS, Electron
-        ,0WMMMMMMMMMMMMMXo
-         .oXWMMMMMMMMMW0c               DevOps
-           .ckKNWWWNX0d,                 ├── Docker, GitHub Actions
-              .,cllc:'.                  └── Linux, Kali
+[32m                     .;lodxO0K,[0m          [1;32msamandari[0m@[1;36mMacBook-Pro[0m
+[32m                 .,cdOKXNWMMMo[0m          ─────────────────────────
+[32m               .;oOXWMMMMMMMMc[0m          [1;37mOS[0m       macOS / Kali Linux
+[32m             .,lkKWMMMMMMMMMM:[0m          [1;37mShell[0m    zsh
+[32m            .;o0NMMMMMMMMMMM0[0m           [1;37mEditor[0m   Cursor
+[32m           .ckXWMMMMMMMMMMMMl[0m
+[32m          .l0NMMMMMMMMMMMMMMo[0m           [1;33mLanguages[0m
+[32m         .oKWMMMMMMMMMMMMMMM:[0m            ├── Python, TypeScript
+[32m        .dXWMMMMMMMMMMMMMMMM,[0m            ├── Dart, Java, C#
+[32m       .oNMMMMMMMMMMMMMMMMMW'[0m            └── SQL, Bash
+[32m       lNMMMMMMMMMMMMMMMMMMM.[0m
+[32m      :XMMMMMMMMMMMMMMMMMMM;[0m            [1;33mAI / ML[0m
+[32m     .dWMMMMMMMMMMMMMMMMMMMd[0m              ├── OpenAI, LangChain, CrewAI
+[32m     cNMMMMMMMMMMMMMMMMMMMMo[0m              ├── AutoGen, MCP, HuggingFace
+[32m    .OMMMMMMMMMMMMMMMMMMMMWl[0m              ├── PyTorch, TensorFlow
+[32m    ;XMMMMMMMMMMMMMMMMMMMMM.[0m              └── Qdrant, Milvus, Pinecone
+[32m    oWMMMMMMMMMMMMMMMMMMMMM:[0m
+[32m    dMMMMMMMMMMMMMMMMMMMMMM;[0m             [1;33mBackend[0m
+[32m    OMMMMMMMMMMMMMMMMMMMMMMo[0m              ├── NestJS, FastAPI, Django
+[32m    XMMMMMMMMMMMMMMMMMMMMMMK[0m              ├── PostgreSQL, MongoDB, Redis
+[32m    0MMMMMMMMMMMMMMMMMMMMMMW.[0m             ├── Prisma, RabbitMQ, Kafka
+[32m    oWMMMMMMMMMMMMMMMMMMMMMM.[0m             └── Keycloak, Vault
+[32m    .OMMMMMMMMMMMMMMMMMMMMMM.[0m
+[32m     ;XMMMMMMMMMMMMMMMMMMMMo[0m             [1;33mMobile / Frontend[0m
+[32m      lNMMMMMMMMMMMMMMMMMM0[0m               ├── Flutter, React
+[32m       cXMMMMMMMMMMMMMMMMNl[0m               └── TailwindCSS, Electron
+[32m        ,0WMMMMMMMMMMMMMXo[0m
+[32m         .oXWMMMMMMMMMW0c[0m               [1;33mDevOps[0m
+[32m           .ckKNWWWNX0d,[0m                 ├── Docker, GitHub Actions
+[32m              .,cllc:'.[0m                  └── Linux, Kali
 
-  samandari@MacBook-Pro ~ % echo $MOTTO
-    Emergency Medicine → Software Engineering.
-    I treat production bugs like medical emergencies.
+  [1;32msamandari@MacBook-Pro[0m [1;36m~[0m [37m%[0m [1;37mecho[0m $MOTTO
+    [90mEmergency Medicine → Software Engineering.[0m
+    [90mI treat production bugs like medical emergencies.[0m
 
-  samandari@MacBook-Pro ~ % exit
-  logout
-  Connection to github.com closed.
+  [1;32msamandari@MacBook-Pro[0m [1;36m~[0m [37m%[0m [1;37mexit[0m
+  [90mlogout[0m
+  [90mConnection to github.com closed.[0m
 ```
 
 <details>
