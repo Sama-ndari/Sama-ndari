@@ -53,7 +53,7 @@ Founder of **[Ijwi ry'Ikirundi AI](https://github.com/Ijwi-ry-Ikirundi-AI)** —
 | | Project | Description |
 |:--|:--------|:------------|
 | `pos` | **[E-Sama POS](https://apps.samandari.dev/app.html?id=esama)** | Flutter POS — paying users, offline-first, AES-256, 3 languages |
-| `auth` | **[User Management](https://github.com/Sama-ndari/user-management-nestJS)** | NestJS microservice — Keycloak, Vault, RBAC |
+| `vol` | **[YIMBurundi](https://www.yimburundi.com)** | Volunteer project — youth impact mission Burundi platform |
 
 ---
 
