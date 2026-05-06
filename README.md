@@ -1,8 +1,6 @@
 <picture><img src=".github/assets/terminal-about.svg" width="100%" /></picture>
 
 <details>
-<summary><sub>links: samandari.dev · linkedin · huggingface · x</sub></summary>
-<br/>
 
 [![samandari.dev](https://img.shields.io/badge/samandari.dev-58a6ff?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.samandari.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jules-cesar-junior-ndayisenga-8b79592a8)

@@ -17,14 +17,13 @@
 <text x="44" y="153" fill="#3fb950" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13" xml:space="preserve">         .,lkKWMMMMMMMMMM:</text>
 <text x="380" y="153" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13" xml:space="preserve"><tspan fill="#e6edf3" font-weight="bold">Shell    </tspan><tspan fill="#c9d1d9">zsh</tspan></text>
 <text x="44" y="172" fill="#3fb950" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13" xml:space="preserve">        .;o0NMMMMMMMMMMM0</text>
-<text x="380" y="172" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13" xml:space="preserve"><tspan fill="#e6edf3" font-weight="bold">Editor   </tspan><tspan fill="#c9d1d9">Cursor</tspan></text>
 <text x="44" y="191" fill="#3fb950" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13" xml:space="preserve">       .ckXWMMMMMMMMMMMMl</text>
 <text x="44" y="210" fill="#3fb950" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13" xml:space="preserve">      .l0NMMMMMMMMMMMMMMo</text>
 <text x="380" y="210" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13" xml:space="preserve"><tspan fill="#d29922" font-weight="bold">Languages</tspan></text>
 <text x="44" y="229" fill="#3fb950" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13" xml:space="preserve">     .oKWMMMMMMMMMMMMMMM:</text>
 <text x="380" y="229" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13" xml:space="preserve"><tspan fill="#c9d1d9"> ├── Python, TypeScript</tspan></text>
 <text x="44" y="248" fill="#3fb950" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13" xml:space="preserve">    .dXWMMMMMMMMMMMMMMMM,</text>
-<text x="380" y="248" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13" xml:space="preserve"><tspan fill="#c9d1d9"> ├── Dart, Java, C#</tspan></text>
+<text x="380" y="248" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13" xml:space="preserve"><tspan fill="#c9d1d9"> ├── Dart, NodeJS</tspan></text>
 <text x="44" y="267" fill="#3fb950" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13" xml:space="preserve">   .oNMMMMMMMMMMMMMMMMMW&apos;</text>
 <text x="380" y="267" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13" xml:space="preserve"><tspan fill="#c9d1d9"> └── SQL, Bash</tspan></text>
 <text x="44" y="286" fill="#3fb950" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13" xml:space="preserve">   lNMMMMMMMMMMMMMMMMMMM.</text>
