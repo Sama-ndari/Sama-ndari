@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="36" viewBox="0 0 800 36" fill="none">
-  <rect width="800" height="36" rx="10" fill="#2B2B2B"/>
-  <circle cx="20" cy="18" r="6" fill="#FF5F56"/>
-  <circle cx="40" cy="18" r="6" fill="#FFBD2E"/>
-  <circle cx="60" cy="18" r="6" fill="#27C93F"/>
-  <text x="400" y="22" text-anchor="middle" fill="#999999" font-family="SF Mono,Menlo,Monaco,Consolas,monospace" font-size="13" font-weight="500">samandari  -zsh  ~</text>
-</svg>
