@@ -8,166 +8,130 @@
 &emsp;
 <a href="https://x.com/La_casse_?s=20"><img src="https://cdn.simpleicons.org/x/000000/ffffff" width="28" alt="X" /></a>
 &emsp;
-<img src="https://komarev.com/ghpvc/?username=Sama-ndari&style=flat-square&color=58a6ff&label=views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Sama-ndari&style=flat-square&color=58a6ff&label=views" alt="views" />
 
 </div>
 
 <br/>
 
-<table width="100%">
-<thead>
-<tr>
-<th align="left">🔴 🟡 🟢 &nbsp;&nbsp; samandari@github: ~</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
+<img src=".github/assets/header-home.svg" width="100%" />
 
-```bash
-samandari@github ~ $ whoami
 ```
+Last login: Wed May  6 12:00:00 on console
+samandari@MacBook-Pro ~ % whoami
+Jules César Junior NDAYISENGA
+AI Engineer & Founder | Asyst Resources LTD
 
-**Jules César Junior NDAYISENGA**
-AI Engineer & Founder · [Asyst Resources LTD](https://asyst.io)
+samandari@MacBook-Pro ~ % cat about.txt
 
-```bash
-samandari@github ~ $ cat about.txt
+  AI Engineer at Asyst, building autonomous agents,
+  RAG systems, and scalable backends.
+
+  Founder of Ijwi ry'Ikirundi AI, open-source AI
+  infrastructure for Kirundi, spoken by 12M+ people
+  yet invisible to AI.
+
+  Before tech, I spent 20+ months in Emergency Medicine
+  across Burundi. Triaging with limited resources shaped
+  how I engineer today: reliability first, plan for failure,
+  never assume perfect conditions.
+
+samandari@MacBook-Pro ~ %
 ```
-
-AI Engineer at **Asyst**, building autonomous agents, RAG systems, and scalable backends.
-
-Founder of **[Ijwi ry'Ikirundi AI](https://github.com/Ijwi-ry-Ikirundi-AI)**, open-source AI infrastructure for Kirundi, spoken by 12M+ people yet invisible to AI.
-
-Before tech, I spent 20+ months in Emergency Medicine across Burundi.
-Triaging with limited resources shaped how I engineer today:
-**reliability first, plan for failure, never assume perfect conditions.**
-
-</td>
-</tr>
-</tbody>
-</table>
 
 <br/>
 
-<table width="100%">
-<thead>
-<tr>
-<th align="left">🔴 🟡 🟢 &nbsp;&nbsp; samandari@github: ~/projects</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
+<img src=".github/assets/header-projects.svg" width="100%" />
 
-```bash
-samandari@github ~/projects $ ls kirundi-ai/
+```
+samandari@MacBook-Pro ~/projects % ls kirundi-ai/
+TOTAL 3
+drwxr-xr-x  dataset/     First open-source speech & text corpus for Kirundi
+drwxr-xr-x  app/         Gamified crowdsourcing platform for language data
+drwxr-xr-x  model/       NLP classifier for Kirundi, French, Swahili, English
+
+samandari@MacBook-Pro ~/projects % ls agents/
+TOTAL 4
+drwxr-xr-x  swarm/       Multi-agent dev team collaborating inside Docker
+drwxr-xr-x  rag/         Framework-free containerized RAG microservice
+drwxr-xr-x  sdr/         Research & sales agents with safety guardrails
+drwxr-xr-x  soc/         SOC assistant with MITRE ATT&CK mapping
+
+samandari@MacBook-Pro ~/projects % ls production/
+TOTAL 2
+drwxr-xr-x  pos/         Flutter POS, paying users, offline-first, AES-256
+drwxr-xr-x  vol/         Volunteer project, youth impact mission Burundi
+
+samandari@MacBook-Pro ~/projects %
 ```
 
-| | Project | Description |
-|:--|:--------|:------------|
-| `dataset/` | **[Kirundi Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset)** | First open-source speech & text corpus for Kirundi, community-driven |
-| `app/` | **[Contribution App](https://www.samandari.dev/kirundi-contribution-app/)** | Gamified crowdsourcing platform for language data |
-| `model/` | **[Lang Identifier](https://huggingface.co/spaces/samandari/burundi-lang-id)** | NLP classifier for Kirundi, French, Swahili, English |
+<details>
+<summary>&nbsp;&nbsp;↳ open links</summary>
+<br/>
 
-```bash
-samandari@github ~/projects $ ls agents/
-```
+| dir | link |
+|:----|:-----|
+| `kirundi-ai/dataset` | [Kirundi Dataset](https://github.com/Ijwi-ry-Ikirundi-AI/Kirundi_Dataset) |
+| `kirundi-ai/app` | [Contribution App](https://www.samandari.dev/kirundi-contribution-app/) |
+| `kirundi-ai/model` | [Lang Identifier](https://huggingface.co/spaces/samandari/burundi-lang-id) |
+| `agents/swarm` | [Dev Swarm](https://github.com/Sama-ndari/dev-swarm-autonomous-agency) |
+| `agents/rag` | [Enterprise RAG](https://github.com/Sama-ndari/enterprise-rag-chatbot) |
+| `agents/sdr` | [Autonomous SDR](https://github.com/Sama-ndari/autonomous-sdr-agent) |
+| `agents/soc` | [SentinelAI](https://github.com/Sama-ndari/sentinelai-soc-assistant) |
+| `production/pos` | [E-Sama POS](https://apps.samandari.dev/app.html?id=esama) |
+| `production/vol` | [YIMBurundi](https://www.yimburundi.com) |
 
-| | Project | Description |
-|:--|:--------|:------------|
-| `swarm/` | **[Dev Swarm](https://github.com/Sama-ndari/dev-swarm-autonomous-agency)** | Multi-agent dev team collaborating inside Docker |
-| `rag/` | **[Enterprise RAG](https://github.com/Sama-ndari/enterprise-rag-chatbot)** | Framework-free containerized RAG microservice |
-| `sdr/` | **[Autonomous SDR](https://github.com/Sama-ndari/autonomous-sdr-agent)** | Research & sales agents with safety guardrails |
-| `soc/` | **[SentinelAI](https://github.com/Sama-ndari/sentinelai-soc-assistant)** | SOC assistant with MITRE ATT&CK mapping |
-
-```bash
-samandari@github ~/projects $ ls production/
-```
-
-| | Project | Description |
-|:--|:--------|:------------|
-| `pos/` | **[E-Sama POS](https://apps.samandari.dev/app.html?id=esama)** | Flutter POS, paying users, offline-first, AES-256, 3 languages |
-| `vol/` | **[YIMBurundi](https://www.yimburundi.com)** | Volunteer project, youth impact mission Burundi platform |
-
-</td>
-</tr>
-</tbody>
-</table>
+</details>
 
 <br/>
 
-<table width="100%">
-<thead>
-<tr>
-<th align="left">🔴 🟡 🟢 &nbsp;&nbsp; samandari@github: ~/stack</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-
-```bash
-samandari@github ~/stack $ neofetch
-```
+<img src=".github/assets/header-stack.svg" width="100%" />
 
 ```
-                     .;lodxO0K,          samandari@github
-                 .,cdOKXNWMMMo          ──────────────────
-               .;oOXWMMMMMMMMc          OS       Kali Linux / macOS
+samandari@MacBook-Pro ~/stack % neofetch
+                     .;lodxO0K,          samandari@MacBook-Pro
+                 .,cdOKXNWMMMo          ─────────────────────────
+               .;oOXWMMMMMMMMc          OS       macOS / Kali Linux
              .,lkKWMMMMMMMMMM:          Shell    zsh
             .;o0NMMMMMMMMMMM0           Editor   Cursor
            .ckXWMMMMMMMMMMMMl
           .l0NMMMMMMMMMMMMMMo           Languages
-         .oKWMMMMMMMMMMMMMMM:            ├── Python
-        .dXWMMMMMMMMMMMMMMMM,            ├── TypeScript
-       .oNMMMMMMMMMMMMMMMMMW'            ├── Dart
-       lNMMMMMMMMMMMMMMMMMMM.            ├── Java
-      :XMMMMMMMMMMMMMMMMMMM;            └── C#
-     .dWMMMMMMMMMMMMMMMMMMMd
-     cNMMMMMMMMMMMMMMMMMMMMo            AI / ML
-    .OMMMMMMMMMMMMMMMMMMMMWl             ├── OpenAI, LangChain, CrewAI
-    ;XMMMMMMMMMMMMMMMMMMMMM.             ├── AutoGen, MCP, HuggingFace
-    oWMMMMMMMMMMMMMMMMMMMMM:             ├── PyTorch, TensorFlow
-    dMMMMMMMMMMMMMMMMMMMMMM;             └── Qdrant, Milvus, Pinecone
-    OMMMMMMMMMMMMMMMMMMMMMMo
-    XMMMMMMMMMMMMMMMMMMMMMMK            Backend
-    0MMMMMMMMMMMMMMMMMMMMMMW.            ├── NestJS, FastAPI, Django
-    oWMMMMMMMMMMMMMMMMMMMMMM.            ├── PostgreSQL, MongoDB, Redis
-    .OMMMMMMMMMMMMMMMMMMMMMM.            ├── Prisma, RabbitMQ, Kafka
-     ;XMMMMMMMMMMMMMMMMMMMMo             └── Keycloak, Vault
-      lNMMMMMMMMMMMMMMMMMM0
-       cXMMMMMMMMMMMMMMMMNl             Mobile / Frontend
-        ,0WMMMMMMMMMMMMMXo               ├── Flutter, React
-         .oXWMMMMMMMMMW0c                └── TailwindCSS, Electron
-           .ckKNWWWNX0d,
-              .,cllc:'.                 DevOps
-                                         ├── Docker, GitHub Actions
-                                         └── Linux, Kali
-```
+         .oKWMMMMMMMMMMMMMMM:            ├── Python, TypeScript
+        .dXWMMMMMMMMMMMMMMMM,            ├── Dart, Java, C#
+       .oNMMMMMMMMMMMMMMMMMW'            └── SQL, Bash
+       lNMMMMMMMMMMMMMMMMMMM.
+      :XMMMMMMMMMMMMMMMMMMM;            AI / ML
+     .dWMMMMMMMMMMMMMMMMMMMd              ├── OpenAI, LangChain, CrewAI
+     cNMMMMMMMMMMMMMMMMMMMMo              ├── AutoGen, MCP, HuggingFace
+    .OMMMMMMMMMMMMMMMMMMMMWl              ├── PyTorch, TensorFlow
+    ;XMMMMMMMMMMMMMMMMMMMMM.              └── Qdrant, Milvus, Pinecone
+    oWMMMMMMMMMMMMMMMMMMMMM:
+    dMMMMMMMMMMMMMMMMMMMMMM;             Backend
+    OMMMMMMMMMMMMMMMMMMMMMMo              ├── NestJS, FastAPI, Django
+    XMMMMMMMMMMMMMMMMMMMMMMK              ├── PostgreSQL, MongoDB, Redis
+    0MMMMMMMMMMMMMMMMMMMMMMW.             ├── Prisma, RabbitMQ, Kafka
+    oWMMMMMMMMMMMMMMMMMMMMMM.             └── Keycloak, Vault
+    .OMMMMMMMMMMMMMMMMMMMMMM.
+     ;XMMMMMMMMMMMMMMMMMMMMo             Mobile / Frontend
+      lNMMMMMMMMMMMMMMMMMM0               ├── Flutter, React
+       cXMMMMMMMMMMMMMMMMNl               └── TailwindCSS, Electron
+        ,0WMMMMMMMMMMMMMXo
+         .oXWMMMMMMMMMW0c               DevOps
+           .ckKNWWWNX0d,                 ├── Docker, GitHub Actions
+              .,cllc:'.                  └── Linux, Kali
 
-</td>
-</tr>
-</tbody>
-</table>
+samandari@MacBook-Pro ~/stack %
+```
 
 <br/>
 
-<table width="100%">
-<thead>
-<tr>
-<th align="left">🔴 🟡 🟢 &nbsp;&nbsp; samandari@github: ~/stats</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
+<img src=".github/assets/header-stats.svg" width="100%" />
 
-```bash
-samandari@github ~/stats $ gh stats --me
+```
+samandari@MacBook-Pro ~/stats % gh stats
 ```
 
-<p align="center">
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sama-ndari&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
@@ -192,19 +156,14 @@ samandari@github ~/stats $ gh stats --me
   <img src="https://raw.githubusercontent.com/Sama-ndari/Sama-ndari/output/github-snake.svg" width="98%" />
 </picture>
 
-</p>
-
-</td>
-</tr>
-</tbody>
-</table>
-
-<br/>
+</div>
 
 ```
-samandari@github ~ $ echo $MOTTO
-Emergency Medicine → Software Engineering. I treat production bugs like medical emergencies.
-samandari@github ~ $ exit
+samandari@MacBook-Pro ~ % echo $MOTTO
+Emergency Medicine → Software Engineering.
+I treat production bugs like medical emergencies.
+
+samandari@MacBook-Pro ~ % exit
 logout
 Connection to github.com closed.
 ```
